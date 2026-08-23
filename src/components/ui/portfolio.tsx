@@ -106,7 +106,7 @@ const projects: Project[] = [
     description: "Cinematic short-form launch sequence: 'Unleash your inner fire' for Hawas Fire & 'Experience imagination beyond thought' for Valero's iconic perfume impressions.",
     tags: ['3D Product Ad', 'Cinematic Flow', 'Product Hook Ads'],
     color: 'from-amber-500 to-emerald-600',
-    iframe: 'https://www.kapwing.com/e/6a1f16ca9e8c6994ff66f6b8',
+    image: 'https://plain-apac-prod-public.komododecks.com/202608/23/nLpx5mWVxIG3xz6BSEG2/image.png',
   },
 
   // AD RUN SERVICES

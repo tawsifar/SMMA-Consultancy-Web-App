@@ -249,7 +249,7 @@ ${formData.name || '[Your Name]'}`;
                   initial={{ opacity: 0, y: 15 }}
                   animate={{ opacity: 1, y: 0 }}
                   exit={{ opacity: 0, y: -15 }}
-                  className="glass-panel w-full bg-gradient-to-br from-emerald-900 to-green-950 p-8 md:p-10 rounded-3xl text-white border-none shadow-2xl flex flex-col justify-between min-h-[460px]"
+                  className="w-full bg-gradient-to-br from-emerald-900 to-emerald-950 p-8 md:p-10 rounded-3xl text-white border-none shadow-2xl flex flex-col justify-between min-h-[460px]"
                 >
                   <div className="space-y-6">
                     <div className="w-14 h-14 bg-white/10 rounded-2xl flex items-center justify-center shadow-lg">
@@ -309,7 +309,7 @@ ${formData.name || '[Your Name]'}`;
                   initial={{ opacity: 0, y: 15 }}
                   animate={{ opacity: 1, y: 0 }}
                   exit={{ opacity: 0, y: -15 }}
-                  className="glass-panel w-full bg-gradient-to-br from-emerald-950 to-emerald-980 p-8 md:p-10 rounded-3xl text-white border-2 border-emerald-500/10 shadow-2xl flex flex-col justify-between min-h-[460px] relative overflow-hidden"
+                  className="w-full bg-gradient-to-br from-emerald-950 to-emerald-900 p-8 md:p-10 rounded-3xl text-white border-2 border-emerald-500/10 shadow-2xl flex flex-col justify-between min-h-[460px] relative overflow-hidden"
                 >
                   {/* Subtle background abstract light */}
                   <div className="absolute top-0 right-0 w-48 h-48 bg-emerald-500/10 rounded-full blur-3xl pointer-events-none" />

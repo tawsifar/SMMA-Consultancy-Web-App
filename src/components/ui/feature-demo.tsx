@@ -9,7 +9,7 @@ const features = [
     title: 'Marketing Videos',
     icon: Video,
     description: "Viral social reels & sensory product ads. Showcase of 'Hawas Fire' and 'Valero Imagination' launch loops optimized for custom feed hook retention.",
-    showVideoVector: true,
+    image: "https://plain-apac-prod-public.komododecks.com/202608/23/nLpx5mWVxIG3xz6BSEG2/image.png",
     className: 'md:col-span-2 md:row-span-2',
   },
   {
