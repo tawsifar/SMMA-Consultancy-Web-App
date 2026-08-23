@@ -6,6 +6,7 @@
 import { lazy, Suspense } from "react";
 import { SplineSceneBasic } from "@/components/ui/demo";
 import { Navbar } from "@/components/ui/navbar";
+import { Chatbot } from "@/components/ui/chatbot";
 
 // Lazy-loaded secondary modules to accelerate initial paint and interaction times
 const DemoOne = lazy(() => import("@/components/ui/feature-demo"));
@@ -63,6 +64,8 @@ export default function App() {
         <Suspense fallback={null}>
           <Footer />
         </Suspense>
+
+        <Chatbot />
       </div>
     </div>
   );
